@@ -1,0 +1,26 @@
+Body {
+    background-color: rgb(153, 177, 176); color: rgb(115, 131, 130)
+}
+
+Header {
+    color: rgb(115, 131, 130)
+}
+
+h1 { 
+    font-size: 12px; color: rgb(153, 177, 176); font-style: oblique
+    
+}
+
+p {
+    font-style: oblique; color:rgb(115, 131, 130
+}
+
+subheading {
+    color: rgb(153, 177, 176); font-style: oblique
+}
+
+a {
+    color: rgb(153, 177, 176); font-style: oblique
+}
+
+.box1 {border-width: 1px; border-style: solid;}
